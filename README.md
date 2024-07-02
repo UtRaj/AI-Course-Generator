@@ -42,5 +42,5 @@ The AI Course Generator is a tool designed to help generate multilingual content
 
 ## Contributing
 
-We welcome contributions to enhance the functionality and features of ReX. If you have suggestions or find any issues, please feel free to open an issue.
+We welcome contributions to enhance the functionality and features of the project. If you have suggestions or find any issues, please feel free to open an issue.
 
