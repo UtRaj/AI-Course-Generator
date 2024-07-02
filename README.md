@@ -32,7 +32,7 @@ The AI Course Generator is a tool designed to help generate multilingual content
 
 2. **Installation Instructions:** Provide step-by-step instructions for installing the necessary libraries and setting up the environment.
 
-3. **Configuration:** Explain how to configure the tool, including setting up API keys and any other required configurations.
+3. **Usage:** : Provide the link to the PDF to be converted , and then the content would be generated.
 
 ## Examples
 
